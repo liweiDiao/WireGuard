@@ -1,5 +1,7 @@
 # TunSafe SVN 一款基于WireGuard 协议的VPN
 
+# 首先贴上TunSafe在TestFlight上的地址：  https://testflight.apple.com/join/9gbYAJLB
+
 下面写一下TunSafe SVN 在Windows 下的安装步骤，轻松实现科学上网：    
 TunSafe 官网：https://tunsafe.com    WireGuard官网： https://www.wireguard.com    
 
