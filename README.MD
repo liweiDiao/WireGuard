@@ -1,4 +1,4 @@
-### TunSafe VPN 一款基于WireGuard 协议的VPN----------2018-12-11  TunSafe 测试已挂，估计被封了-------------------
+### TunSafe VPN 一款基于WireGuard 协议的VPN------2018-12-11  TunSafe 测试已挂，估计被封了---
 
 ###### 首先贴上TunSafe在TestFlight上的地址：  https://testflight.apple.com/join/9gbYAJLB
 
