@@ -44,5 +44,12 @@ TunSafe 官网：https://tunsafe.com    WireGuard官网： https://www.wireguard
 
 ### 二、ipad使用示例，美区appid直接搜索tunsafe    
 ![Image 步骤14](https://github.com/liweiDiao/WireGuard/blob/master/image/IMG_1498.PNG)    
-
+ 
+ 1、正常打开是下面这样    
+ ![Image 步骤14](https://github.com/liweiDiao/WireGuard/blob/master/image/IMG_1499.PNG)    
+ 
+ 2、查看设置，设置里面可以选择节点文件（如果自己有文件，这里设置后能直接选择自己的节点科学上网）      
+ ![Image 步骤14](https://github.com/liweiDiao/WireGuard/blob/master/image/IMG_1500.PNG)    
+ 
+ ![Image 步骤14](https://github.com/liweiDiao/WireGuard/blob/master/image/IMG_1501.PNG)    
 
