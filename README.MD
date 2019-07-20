@@ -2,7 +2,7 @@
 
 ###### 首先贴上TunSafe在TestFlight上的地址：  https://testflight.apple.com/join/9gbYAJLB
 
-###### 在Installer目录下有TunSafe-1.4.exe 安装包，大家可以下载安装。    
+ 在Installer目录下有TunSafe-1.4.exe 安装包，大家可以下载安装。    
 
 下面写一下TunSafe VPN 在Windows 下的安装步骤，轻松实现科学上网：    
 TunSafe 官网：https://tunsafe.com    WireGuard官网： https://www.wireguard.com    
@@ -40,3 +40,6 @@ TunSafe 官网：https://tunsafe.com    WireGuard官网： https://www.wireguard
 10、到这里科学上网已经实现了，我们测试一下，打开浏览器访问www.youtube.com，查看视频速度还是挺快的。如图：
 ![Image 步骤2](https://github.com/liweiDiao/WireGuard/blob/master/image/13.png)    
 ![Image 步骤2](https://github.com/liweiDiao/WireGuard/blob/master/image/14.png)    
+
+
+### ipad使用示例，
