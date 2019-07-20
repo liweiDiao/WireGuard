@@ -53,3 +53,16 @@ TunSafe 官网：https://tunsafe.com    WireGuard官网： https://www.wireguard
  
  ![Image 步骤14](https://github.com/liweiDiao/WireGuard/blob/master/image/IMG_1501.PNG)    
 
+ 3、可惜的是，不科学上网，当前没有节点可以选择。如下图（正常国内网络）    
+ ![Image 步骤14](https://github.com/liweiDiao/WireGuard/blob/master/image/IMG_1504.PNG)    
+ 
+ 4、在进行科学上网后，再重新打开app如下图，出现很多节点。    
+ ![Image 步骤14](https://github.com/liweiDiao/WireGuard/blob/master/image/IMG_1508.PNG)   
+ 
+ 
+ ![Image 步骤14](https://github.com/liweiDiao/WireGuard/blob/master/image/IMG_1505.PNG)   
+ 
+ 5、选择美国节点后，选择连接，连接成功。     
+ ![Image 步骤14](https://github.com/liweiDiao/WireGuard/blob/master/image/IMG_1507.PNG)   
+ 
+ 
