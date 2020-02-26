@@ -1,6 +1,6 @@
 ### TunSafe VPN 一款基于WireGuard 协议的VPN------2018-12-11  TunSafe 测试已挂，估计被封了--
 
-#### 目前很多反馈安装过程也需要科学的。我给大家一个临时解决方案，在目录chromeExtensions 下上传了一个1.0.4_0.crx chrome扩展程序，安装后可实现科学。
+#### 目前很多反馈安装过程也需要科学的。我给大家一个临时解决方案，在目录chromeExtensions 下上传了一个1.0.4_0.crx chrome扩展程序，安装后可实现科学。(2020-02-26)
 
 ~~首先贴上TunSafe在TestFlight上的地址：  https://testflight.apple.com/join/9gbYAJLB~~
 
